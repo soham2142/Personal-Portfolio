@@ -284,6 +284,7 @@ footer {
     padding: 30px;
     border-radius: 10px;
     text-align: center;
+    color: black
     width: 50%;
     max-width: 500px;
     box-shadow: 0 0 15px rgba(0, 255, 255, 0.7);
@@ -492,3 +493,4 @@ footer {
     box-shadow: 0 0 10px rgba(0, 255, 255, 0.5); /* Glow effect */
     text-align: center;
 }
+
